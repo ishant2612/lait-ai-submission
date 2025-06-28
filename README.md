@@ -67,7 +67,7 @@ Follow these steps carefully to set up the project environment. The installation
 ### 2\. Clone the Repository
 
 ```
-git clone https://github.com/ishant2612/lait_ai_submission.git
+git clone https://github.com/ishant2612/lait-ai-submission.git
 cd lait-ai-submission
 
 ```
